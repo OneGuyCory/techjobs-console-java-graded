@@ -129,24 +129,4 @@ public class TechJobs {
             System.out.print("No Results");
         }
     }
-
-
-//        if (someJobs.size() == 0) {
-//            System.out.print("No Results");
-//        }else{
-//
-//            someJobs.forEach((key,value) -> {
-//                System.out.println("Key = "
-//                        + key + ", Value = " + value);
-//            });
-//            for (HashMap<String, String> someJob : someJobs) {
-//                System.out.println("\n*****");
-//                for (Map.Entry<String, String> categories : someJob.entrySet()) {
-//                    System.out.println(categories.getKey() + ": " + categories.getValue());
-//                }
-//
-//                System.out.println("*****");
-//            }
-//        }
-//    }
 }
